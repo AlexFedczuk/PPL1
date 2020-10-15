@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1602014278 source:c:\users\pc\desktop\ppl1 1er parte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bibliotecaMascota.h"
+
+1602013169 source:c:\users\pc\desktop\ppl1 1er parte\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1602013169 c:\users\pc\desktop\ppl1 1er parte\mibiblioteca.h
+
+1602014329 c:\users\pc\desktop\ppl1 1er parte\bibliotecamascota.h
+	"bibliotecaRaza.h"
+
+1602013732 source:c:\users\pc\desktop\ppl1 1er parte\bibliotecamascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bibliotecaMascota.h"
+
+1602013818 source:c:\users\pc\desktop\ppl1 1er parte\bibliotecaraza.c
+	<string.h>
+	"bibliotecaRaza.h"
+
+1602014071 c:\users\pc\desktop\ppl1 1er parte\bibliotecaraza.h
+
+1602013818 c:\users\pc\desktop\ppl1 1er parte\bibliotecaraza.c
+	<string.h>
+	"bibliotecaRaza.h"
+
+1602595996 source:c:\users\pc\desktop\ppl1\bibliotecamascota.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bibliotecaMascota.h"
+	"miBiblioteca.h"
+
+1602595996 c:\users\pc\desktop\ppl1\bibliotecamascota.h
+	"bibliotecaRaza.h"
+
+1602591674 c:\users\pc\desktop\ppl1\bibliotecaraza.h
+
+1602591674 source:c:\users\pc\desktop\ppl1\bibliotecaraza.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"miBiblioteca.h"
+	"bibliotecaRaza.h"
+
+1602595996 source:c:\users\pc\desktop\ppl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"miBiblioteca.h"
+	"bibliotecaMascota.h"
+
+1602435998 source:c:\users\pc\desktop\ppl1\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"miBiblioteca.h"
+
+1602435997 c:\users\pc\desktop\ppl1\mibiblioteca.h
+
